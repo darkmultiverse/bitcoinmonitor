@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.3
+certifi==2021.10.8
+pygame==2.0.3
+soupsieve==2.3
+wincertstore==0.2
