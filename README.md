@@ -1,2 +1,2 @@
 # bitcoinmonitor
-Monitor de movimentação do bitcoin com áudio
+Monitor de ocilação do bitcoin com áudio
